@@ -2,4 +2,5 @@ streamlit
 nltk
 pandas
 numpy
+cv2
 seaborn
