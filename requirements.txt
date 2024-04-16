@@ -2,5 +2,5 @@ streamlit
 nltk
 pandas
 numpy
-opencv-python
+opencv-python-headless
 seaborn
