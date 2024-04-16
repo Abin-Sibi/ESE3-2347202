@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import cv2
 
+
 st.title("Image Processing App")
 st.write("Please select an image file from your local files:")
 
